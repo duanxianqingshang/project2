@@ -1,0 +1,68 @@
+
+
+P{
+    text-align: left;
+    font-size: 30px;
+   color: lightcoral;
+}
+
+h1{
+color: lightblue;
+    text-align: right;
+}
+    
+#one{
+    font-size: 200px;
+    color: coral;
+    position: absolute;
+    top: 30px;
+    left: 35%;    
+}
+#two{ font-size: 200px;
+    color:palevioletred;
+    position: absolute;
+    top: 180px;
+    left: 25%;  
+    
+}
+#three{
+    font-size: 200px;
+    color:lightseagreen;
+    position: absolute;
+    top: 330px;
+    left: 15%;  
+    
+}
+
+#four{font-size: 200px;
+    color:lightcyan;
+    position: absolute;
+    top: 480px;
+    left: 25%;  
+    
+}
+#five{font-size: 200px;
+    color: lightskyblue;
+    position: absolute;
+    top: 650px;
+    left: 35%;  
+    
+}
+#six{
+    color: dimgray;
+    font-style: italic;
+    font-size: 45px;
+    position: absolute;
+    left: 40%;
+    
+    top: 200px;
+}
+
+
+
+
+
+
+
+
+    

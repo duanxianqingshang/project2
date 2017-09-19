@@ -1,0 +1,36 @@
+#test{
+   border: orange 10px dotted;
+     padding: 50px;
+    width:200px;
+    margin-left:200px; 
+      margin-top:100px; 
+  }
+
+#test2{
+   border: orange 10px dotted;
+     padding: 50px;
+    width:200px;
+    margin-left:520px;  
+    
+}
+
+#test3{ border: orange 10px dotted;
+    
+    padding: 50px;
+    width:200px;
+    position:absolute;
+    left:73%; 
+    top:80px; 
+    
+}
+#test4{border: orange 10px dotted;
+    
+    padding: 50px;
+    width:200px;
+    position:absolute;
+    left:100%; 
+    top:360px; 
+    
+}
+
+

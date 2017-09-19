@@ -1,0 +1,23 @@
+#one{
+    font-size: 50px;
+color: black;
+    
+    margin: 56px;
+    padding: 28px;
+    width: 480px ;
+   position: absolute;
+    top:200px;
+    left:10%;  text-align:center;
+    
+    
+}
+
+p{ font-size: 500px;
+    position: absolute;
+    top:50px;
+    
+    
+color: Lightgray;
+    
+}
+

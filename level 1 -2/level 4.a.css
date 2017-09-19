@@ -1,0 +1,80 @@
+#test{
+    border: lightgoldenrodyellow 5px dotted;
+    position:absolute;
+    top: 50px;
+    left:43%;
+    
+   
+  font-family: fantasy;
+    font-size: 10px;  
+    text-align:center
+}
+
+#one{ 
+      border: lightcoral 5px dotted;
+    position:absolute;
+    top: 80px;
+    left:37%;
+    
+ 
+  font-family: fantasy;
+    font-size: 30 px; 
+         text-align:center
+    
+}
+#two{ 
+    border: lightsalmon 5px dotted;
+    position:absolute;
+    top: 140px;
+    left:23%;
+    
+    
+   
+  font-family: fantasy;
+    font-size:35px; 
+         text-align:center
+    
+}
+#three{
+     border: lightgreen 5px dotted;
+    position:absolute;
+    top: 220px;
+    left:16%;
+    
+   
+  font-family: fantasy;
+    font-size:45px; 
+         text-align:center
+    
+}
+#four{
+     border: lightblue 5px dotted;
+    position:absolute;
+    top: 320px;
+    left:10%;
+  
+    
+  font-family: fantasy;
+    font-size:55px; 
+         text-align:center
+    
+    
+}
+#five{
+    border: lightpink 5px dotted;
+   
+    
+   position: absolute;
+    top:480px;
+ 
+  font-family: fantasy;
+    font-size:100px; 
+         text-align:center
+    
+}
+
+
+
+
+
+

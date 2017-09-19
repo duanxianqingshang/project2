@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+}
+
+#one{
+    text-align:center;
+    
+    color:white;
+    
+ 
+     font-size: 80px;
+    
+    
+    
+    
+}
+
+#two{
+   font-size: 50px;
+color: azure;
+    border: white 3px solid;
+    margin: 56px;
+    padding: 28px;
+    width: 480px ;
+   position: absolute;
+    top:200px;
+    left:10%;  text-align:center;
+    
+}
+
+#three{ font-size: 50px;
+color:coral;
+    border: white 3px solid;
+    margin: 56px;
+    padding: 28px;
+    width: 480px ;
+   position: absolute;
+    top:400px;
+    left:15%;
+      text-align:center;
+}
+
+#four{font-size: 50px;
+color: olive;
+    border: white 3px solid;
+    margin: 56px;
+    padding: 28px;
+    width: 480px ;
+   position: absolute;
+    top:600px;
+    left:20%;
+      text-align:center;
+}
+
+
+
+
+
